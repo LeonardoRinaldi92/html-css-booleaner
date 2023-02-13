@@ -14,7 +14,7 @@
 }
 
 /* paddinggenerale */
-.toppadding {
+.marginbottom {
     margin-bottom: 35px; 
 }
 
@@ -29,6 +29,12 @@
     background-repeat: repeat;
     background-size: 15%;
     min-height: 100px;
+}
+
+.p-absolute{
+    position: absolute;
+   bottom: 10%;
+   left: 1%;
 }
 
 /* dimensionelogog */
@@ -89,7 +95,7 @@ table {
     position: relative;
 }
 
-.p-absolute {
+.p-absolute2 {
     position: absolute;
     top: 10px;
     left: 10px;
