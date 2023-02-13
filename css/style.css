@@ -8,6 +8,11 @@
     font-size: 22px;
 }
 
+.marginlr{
+    margin-left: 3px;
+    margin-bottom: 3px;
+}
+
 /* paddinggenerale */
 .articlepadding {
     padding-top: 35px; 
@@ -60,8 +65,8 @@ table {
     border-spacing: 0;
 }
 
-/* bianco-scritte-tabella */
-thead {
+/* bianco-scritte- */
+.text-colorwhite {
     color: aliceblue;
 }
 
@@ -78,4 +83,15 @@ thead {
 /* tabella allargata */
 .tbl3 {
     width: 50%;
+}
+
+/
+
+.bottompadding {
+    margin-bottom: 20px;
+}
+
+
+.lastimage {
+    position: 
 }
