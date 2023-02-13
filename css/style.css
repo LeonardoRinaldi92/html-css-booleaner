@@ -14,8 +14,8 @@
 }
 
 /* paddinggenerale */
-.articlepadding {
-    padding-top: 35px; 
+.toppadding {
+    margin-bottom: 35px; 
 }
 
 /* fontpiccoli */
@@ -85,13 +85,12 @@ table {
     width: 50%;
 }
 
-/
-
-.bottompadding {
-    margin-bottom: 20px;
+.p-relative {
+    position: relative;
 }
 
-
-.lastimage {
-    position: 
+.p-absolute {
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
