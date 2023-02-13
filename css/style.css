@@ -1,5 +1,5 @@
 
-
+/* reset */
 * {
     margin: 0;
     padding: 0;
@@ -8,10 +8,12 @@
     font-size: 22px;
 }
 
+/* paddinggenerale */
 .articlepadding {
-    padding-top: 40px; 
+    padding-top: 35px; 
 }
 
+/* fontpiccoli */
 .fontsize14 {
     font-size: 14px;
 }
@@ -24,52 +26,56 @@
     min-height: 100px;
 }
 
+/* dimensionelogog */
 .bannerlogo {
     height: 50px;
-}
-
-.top{
-    padding-top: 20px;
 }
 
 .title {
     font-size: 60px;
 }
 
+/* coloregrigio */
 .text-colorgrey {
     color: dimgrey;
 }
 
+/* coloreblu */
 .text-colorblue {
     color: rgb(54, 164, 255);
 }
-
+/* dimensionefoto */
 .tim-photo {
 height: 500px;
 }
 
+/* marginelista */
 .listpoint {
 margin-left: 20px;
 }
 
+/* marginitabella e spazio */
 table {
     text-align: left;
     border-spacing: 0;
 }
 
+/* bianco-scritte-tabella */
 thead {
     color: aliceblue;
 }
 
+/* background tabella blue */
 .background-blue{
     background-color: rgb(0, 174, 255);
 }
 
+/* background tabella celeste */
 .background-sky {
     background-color: rgb(77, 238, 238);
 }
 
+/* tabella allargata */
 .tbl3 {
     width: 50%;
-
 }
