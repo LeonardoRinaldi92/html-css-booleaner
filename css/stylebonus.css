@@ -7,9 +7,13 @@
     font-size: 22px;
 }
 
+/* maxwidth */
+.width80 {
+    width: 80%;
+}
+
 .marginlr{
-    margin-left: 10%;
-    margin-right: 10%;
+margin: auto;
 }
 
 /* marginenerale */
